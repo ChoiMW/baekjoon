@@ -36,6 +36,8 @@ public class fibo5_10870 {
 	        int ret = fibo(sc.nextInt());
 			
 			System.out.println(ret);
+            
+            sc.close();
 			
 		}
 

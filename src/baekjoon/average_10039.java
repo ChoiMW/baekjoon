@@ -1,4 +1,4 @@
-//제출시에는 pakage 는 삭제, class 명은 Main으로 변경하기
+
 package baekjoon;
 
 import java.util.ArrayList;

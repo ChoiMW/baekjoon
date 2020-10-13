@@ -1,4 +1,4 @@
-//제출시에는 pakage 는 삭제, class 명은 Main으로 변경하기
+
 
 package baekjoon;
 
@@ -17,7 +17,7 @@ public class nalds_5543 {
 		Scanner sc = new Scanner(System.in);
 
 
-		//햄버거부분
+	
 		burger = sc.nextInt();
 		
 		for(int i=0; i<2 ; i++) {
@@ -30,7 +30,7 @@ public class nalds_5543 {
 		}
 		
 		
-		//음료 부분
+	
 		drink = sc.nextInt();
 		
 		temp = sc.nextInt();
@@ -42,6 +42,7 @@ public class nalds_5543 {
 		
 		System.out.println(price);
 		
+        sc.close();
 	}
 
 }
